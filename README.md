@@ -1,7 +1,5 @@
 # Shiny App Development Version 2.0
 
-### [Project Description](doc/project2_desc.md)
-
 ![screenshot](doc/panel1.png)
 ![screenshot](doc/panel2.png)
 ![screenshot](doc/panel3.png)
