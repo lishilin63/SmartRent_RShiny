@@ -1,4 +1,4 @@
-# Project 2: Shiny App Development Version 2.0
+# Shiny App Development Version 2.0
 
 ### [Project Description](doc/project2_desc.md)
 
@@ -8,17 +8,7 @@
 
 
 ## Rent Smart Version 2.0 
-Term: Fall 2018
 
-+ Team #3
-+ **Projec title**: [Rent Smart V2.0](https://taburiss3525.shinyapps.io/HousingM/)  
-[Presentation](https://prezi.com/view/XJk5oUjxWrj9Je7nsaQu/)
-	+ Shilin Li SL4261
-	+ Zhengyang Xu ZX2229
-	+ Chenghao Yu CY2474
-	+ Mingyu Yang MY2545
-	+ Yang Yue YY2826
-(Names are listed in alphabetical order of last names.)
 + **Project Summary**: 
 
 
